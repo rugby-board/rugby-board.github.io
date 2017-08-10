@@ -1,0 +1,5 @@
+title: Rugby News Board
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README
